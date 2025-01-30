@@ -28,8 +28,10 @@ pip install -r requirements.txt
 Open Telegram, search for @BotFather, and create a new bot
 Copy the bot token and update bot.py
 TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-GROUP_CHAT_ID = "@crypto_price_feam"  # Use "@username" for public groups or "-100XXXXXXXXX" for private groups
-📌 Usage
+GROUP_CHAT_ID = "@username_group"  
+Use "@username" for public groups or "-100XXXXXXXXX" for private groups
+
+### 📌 Usage
 Run the bot:
 
 python bot.py
