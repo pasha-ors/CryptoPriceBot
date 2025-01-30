@@ -25,11 +25,11 @@ cd crypto-price-bot
 pip install -r requirements.txt
 
 ### 3️⃣ Set Up Your Telegram Bot
-Open Telegram, search for @BotFather, and create a new bot
-Copy the bot token and update bot.py
-TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-GROUP_CHAT_ID = "@username_group"  
-Use "@username" for public groups or "-100XXXXXXXXX" for private groups
+####Open Telegram, search for @BotFather, and create a new bot
+####Copy the bot token and update bot.py
+####TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+####GROUP_CHAT_ID = "@username_group"  
+####Use "@username" for public groups or "-100XXXXXXXXX" for private groups
 
 ### 📌 Usage
 Run the bot:
